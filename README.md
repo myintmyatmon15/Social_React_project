@@ -1,4 +1,4 @@
-# Social Platform (MERN Stack)
+# Social Platform
 
 [span_4](start_span)An interactive, data-driven social networking application built with the MERN stack[span_4](end_span). [span_5](start_span)This project focuses on high-performance data rendering and seamless user interaction[span_5](end_span).
 
